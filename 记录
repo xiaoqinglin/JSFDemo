@@ -1,0 +1,9 @@
+--buffalo 的调用，
+--配置服务：web.xml
+var END_POINT="<%=request.getContextPath()%>/bfapp";
+--对外提供的服务： buffalo-service.properties
+
+buffalo-example
+  WEB-INF/classes
+  WEB-INF/lib
+  script
