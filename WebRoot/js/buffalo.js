@@ -9,6 +9,3 @@ function BuffaloCall(methodname){
 	this.params = [];
 	return this;
 }
-
-
-BuffaloCall
