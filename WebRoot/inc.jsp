@@ -20,6 +20,8 @@
 	src="<%=request.getContextPath()%>/js/BFC.js"></script>
 	<script language="javascript"
 	src="<%=request.getContextPath()%>/js/BFCUtils.js"></script>
+<script language="javascript"
+	src="<%=request.getContextPath()%>/js/utils.js"></script>
 <script language="JavaScript" type="text/JavaScript">
 	var END_POINT="<%=request.getContextPath()%>/bfapp";
 	//var END_POINT="<%=request.getContextPath()%>/BUFFALOinit.jsf";
